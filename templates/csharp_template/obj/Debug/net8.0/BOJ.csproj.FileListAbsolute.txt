@@ -1,0 +1,14 @@
+/home/dn/projects/bojTrain/templates/csharp_template/bin/Debug/net8.0/App
+/home/dn/projects/bojTrain/templates/csharp_template/bin/Debug/net8.0/App.deps.json
+/home/dn/projects/bojTrain/templates/csharp_template/bin/Debug/net8.0/App.runtimeconfig.json
+/home/dn/projects/bojTrain/templates/csharp_template/bin/Debug/net8.0/App.dll
+/home/dn/projects/bojTrain/templates/csharp_template/bin/Debug/net8.0/App.pdb
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/BOJ.GeneratedMSBuildEditorConfig.editorconfig
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/BOJ.AssemblyInfoInputs.cache
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/BOJ.AssemblyInfo.cs
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/BOJ.csproj.CoreCompileInputs.cache
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/App.dll
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/refint/App.dll
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/App.pdb
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/BOJ.genruntimeconfig.cache
+/home/dn/projects/bojTrain/templates/csharp_template/obj/Debug/net8.0/ref/App.dll

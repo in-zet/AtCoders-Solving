@@ -1,0 +1,14 @@
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.GeneratedMSBuildEditorConfig.editorconfig
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.AssemblyInfoInputs.cache
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.AssemblyInfo.cs
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.csproj.CoreCompileInputs.cache
+/home/dn/projects/bojTrain/workspace/bin/Debug/net8.0/BOJ
+/home/dn/projects/bojTrain/workspace/bin/Debug/net8.0/BOJ.deps.json
+/home/dn/projects/bojTrain/workspace/bin/Debug/net8.0/BOJ.runtimeconfig.json
+/home/dn/projects/bojTrain/workspace/bin/Debug/net8.0/BOJ.dll
+/home/dn/projects/bojTrain/workspace/bin/Debug/net8.0/BOJ.pdb
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.dll
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/refint/BOJ.dll
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.pdb
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/BOJ.genruntimeconfig.cache
+/home/dn/projects/bojTrain/workspace/obj/Debug/net8.0/ref/BOJ.dll
