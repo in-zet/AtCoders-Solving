@@ -1,5 +1,32 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Reflection;
+
+class MyMinQ
+{
+    private PriorityQueue<long, long> pq = new PriorityQueue<long, long>();
+    private long addiction = 0;
+
+    public void Operate(int operType, int operN = 0)
+    {
+        switch (operType)
+        {
+            case 1:
+                long temp = operN - addiction;
+                pq.Enqueue(temp, temp);
+                break;
+            case 2:
+                addiction += operN;
+                break;
+            case 3:
+                Program.sw.WriteLine(pq.Dequeue() + addiction);
+                break;
+            default:
+                break;
+        }
+    }
+}
 
 class Program
 {
@@ -7,14 +34,24 @@ class Program
     static byte[] buffer = new byte[1 << 16];
     static int bufferLen = 0, bufferPtr = 0;
 
-    static StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput())) { NewLine = "\n" };
+    static public StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput())) { NewLine = "\n" };
 
     static void Main()
     {
-        int n = ReadInt();
-        for (int i = 0; i < n; i++)
+        int operNum = ReadInt();
+        MyMinQ queue = new MyMinQ();
+
+        for (int i = 0; i < operNum; i++)
         {
-            sw.WriteLine(ReadInt() + ReadInt());
+            int type = ReadInt();
+            if (type != 3)
+            {
+                queue.Operate(type, ReadInt());
+            }
+            else
+            {
+                queue.Operate(type);
+            }
         }
 
         sw.Flush();

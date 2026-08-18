@@ -1,0 +1,6 @@
+https://atcoder.jp/contests/abc212/tasks/abc212_d
+
+── 채점 결과 ──
+시간: 0.016s (16ms)
+메모리: 10964 KB
+날짜: 20260818
