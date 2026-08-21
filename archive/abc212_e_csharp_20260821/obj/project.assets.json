@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dn/projects/bojTrain/archive/abc212_d_csharp_20260818/BOJ.csproj",
+      "projectUniqueName": "/home/dn/projects/bojTrain/workspace/BOJ.csproj",
       "projectName": "App",
-      "projectPath": "/home/dn/projects/bojTrain/archive/abc212_d_csharp_20260818/BOJ.csproj",
+      "projectPath": "/home/dn/projects/bojTrain/workspace/BOJ.csproj",
       "packagesPath": "/home/dn/.nuget/packages/",
-      "outputPath": "/home/dn/projects/bojTrain/archive/abc212_d_csharp_20260818/obj/",
+      "outputPath": "/home/dn/projects/bojTrain/workspace/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dn/.nuget/NuGet/NuGet.Config"
